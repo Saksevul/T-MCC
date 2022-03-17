@@ -16,7 +16,6 @@
 *.xml
 
 #ignore specific files
-labelImg
 *.pkl
 
 #ignore directories
