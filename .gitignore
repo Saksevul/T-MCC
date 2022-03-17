@@ -1,0 +1,29 @@
+#ignore .root files
+*.root
+
+# ignore all .pdf files
+*.pdf
+
+# ignore all .txt files
+*.txt
+
+# ignore all images
+*.jpg
+*.png
+*.jpeg
+
+# ignore all .xml files
+*.xml
+
+#ignore specific files
+labelImg
+*.pkl
+
+#ignore directories
+/calImages/
+/jet-detection/
+/object-detection/
+/Papers/
+/Pres/
+/Pruebas/rnn-tutorial/
+/Pruebas/SegNet_PyTorch-master
