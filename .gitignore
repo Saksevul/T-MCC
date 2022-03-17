@@ -11,6 +11,7 @@
 *.jpg
 *.png
 *.jpeg
+*.zip
 
 # ignore all .xml files
 *.xml
