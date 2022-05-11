@@ -9,8 +9,8 @@
 
 # ignore all images
 *.jpg
-*.png
 *.jpeg
+*.png
 *.zip
 
 # ignore all .xml files
@@ -21,8 +21,11 @@
 
 #ignore directories
 /calImages/
-/jet-detection/
-/object-detection/
+/jet-detection_inception/
+/jet-detection_resnet50/
+/jet-detection_resnet101/
+/labelImg/
+/object-detection_resnet101/
 /Papers/
 /Pres/
 /Pruebas/rnn-tutorial/
